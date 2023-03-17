@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a67d831021286c448c56e4c06f75dae, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: Assembly-CSharp::Level
+  Speeds:
+  - 0.3
+  - 0.2
+  - 0.1
+  Damages: 010000000200000003000000
+  RangeModel:
+  - 0.2
+  - 0.25
+  - 0.3
+  RangeOverlap:
+  - 1.5
+  - 1.7
+  - 2.1
